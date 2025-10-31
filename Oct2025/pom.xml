@@ -20,7 +20,6 @@
     <groupId>org.testng</groupId>
     <artifactId>testng</artifactId>
     <version>7.7.0</version>
-    <scope>test</scope>
 </dependency>
 <!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
 <dependency>
@@ -74,3 +73,4 @@
     </plugins>
 </build>
 </project>
+
